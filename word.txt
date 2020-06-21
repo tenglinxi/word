@@ -16,8 +16,6 @@ adequately		        adv.充分地；足够地；适当地
 
 round			        n.四舍五入
 
-python 'and' has a higher precedence than 'or'
-
 parenthese		        n. 括号；圆括号
 
 contraction		        n. 收缩，紧缩；缩写式；害病
