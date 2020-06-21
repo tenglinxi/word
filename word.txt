@@ -1,43 +1,43 @@
-kernel			n.(坚果或子粒的)仁，核;(思想或主题的)核心，中心，要点
+kernel			        n.(坚果或子粒的)仁，核;(思想或主题的)核心，中心，要点
 
-inspired			v.激励;鼓舞;赋予灵感;引起联想;启发思考;使产生(感觉或情感)
+inspired			    v.激励;鼓舞;赋予灵感;引起联想;启发思考;使产生(感觉或情感)
 
-recent			adj.近来的;新近的
+recent			        adj.近来的;新近的
 
-interactively 		adv.交互式地
+interactively 		    adv.交互式地
 
-refer			v.谈及;提到;提及;称…(为);指;涉及;描述
+refer			        v.谈及;提到;提及;称…(为);指;涉及;描述
 
 Table of Contents		目录;目錄;目次;内容列表;内容目录
 
-curve			n.曲线;弧线;曲面;弯曲;
+curve			        n.曲线;弧线;曲面;弯曲;
 
-adequately		adv.充分地；足够地；适当地
+adequately		        adv.充分地；足够地；适当地
 
-round			n.四舍五入
+round			        n.四舍五入
 
 python 'and' has a higher precedence than 'or'
 
-parenthese		n. 括号；圆括号
+parenthese		        n. 括号；圆括号
 
-contraction		n. 收缩，紧缩；缩写式；害病
+contraction		        n. 收缩，紧缩；缩写式；害病
 
-denote			vt. 表示，指示
+denote			        vt. 表示，指示
 
-donate			v.(尤指向慈善机构)捐赠，赠送;献(血);捐献(器官)
+donate			        v.(尤指向慈善机构)捐赠，赠送;献(血);捐献(器官)
 
-subsequent 		adj. 随后的
+subsequent 		        adj. 随后的
 
-Generally			adv. 通常；普遍地，一般地
+Generally			    adv. 通常；普遍地，一般地
 
-implicitly			adv. 含蓄地；暗中地
+implicitly			    adv. 含蓄地；暗中地
 
-syntax 			n. 语法；句法；有秩序的排列
+syntax 			        n. 语法；句法；有秩序的排列
 
-in a row			n.成一排; 连续
+in a row			    n.成一排; 连续
 
-diagnose			vt. 诊断；断定
+diagnose			    vt. 诊断；断定
 
-infuriating			adj. 令人恼火的
+infuriating			    adj. 令人恼火的
 
-overview			n. [图情] 综述；概观
+overview			    n. [图情] 综述；概观
