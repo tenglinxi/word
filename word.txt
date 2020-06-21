@@ -38,4 +38,12 @@ diagnose                vt. 诊断；断定
 
 infuriating             adj. 令人恼火的
 
-overview			    n. [图情] 综述；概观
+overview                n. [图情] 综述；概观
+
+
+
+
+
+
+
+
